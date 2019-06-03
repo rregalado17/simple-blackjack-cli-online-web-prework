@@ -59,6 +59,9 @@ end
 
 def runner
 welcome
-initial_roun
+initial_round
+hits? 
+display_card_total
+
 end
     
