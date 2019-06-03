@@ -59,6 +59,6 @@ end
 
 def runner
 welcome
-
+initial_roun
 end
     
