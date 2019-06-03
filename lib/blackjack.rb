@@ -62,6 +62,7 @@ welcome
 initial_round
 hits? 
 display_card_total
-
+until card_total > 21 
+end
 end
     
