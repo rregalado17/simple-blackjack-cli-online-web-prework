@@ -58,7 +58,7 @@ end
 #####################################################
 
 def runner
-welcome
+return welcome
 initial_round
 hit?
 display_card_total
